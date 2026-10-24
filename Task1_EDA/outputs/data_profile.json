@@ -1,0 +1,170 @@
+{
+  "rows": 178,
+  "columns_including_target_and_name": 15,
+  "feature_count": 13,
+  "missing_values_by_column": {
+    "alcohol": 0,
+    "malic_acid": 0,
+    "ash": 0,
+    "alcalinity_of_ash": 0,
+    "magnesium": 0,
+    "total_phenols": 0,
+    "flavanoids": 0,
+    "nonflavanoid_phenols": 0,
+    "proanthocyanins": 0,
+    "color_intensity": 0,
+    "hue": 0,
+    "od280/od315_of_diluted_wines": 0,
+    "proline": 0,
+    "target": 0,
+    "target_name": 0
+  },
+  "duplicate_rows": 0,
+  "class_counts": {
+    "class_1": 71,
+    "class_0": 59,
+    "class_2": 48
+  },
+  "numeric_summary": {
+    "alcohol": {
+      "count": 178.0,
+      "mean": 13.001,
+      "std": 0.812,
+      "min": 11.03,
+      "25%": 12.362,
+      "50%": 13.05,
+      "75%": 13.678,
+      "max": 14.83
+    },
+    "malic_acid": {
+      "count": 178.0,
+      "mean": 2.336,
+      "std": 1.117,
+      "min": 0.74,
+      "25%": 1.602,
+      "50%": 1.865,
+      "75%": 3.082,
+      "max": 5.8
+    },
+    "ash": {
+      "count": 178.0,
+      "mean": 2.367,
+      "std": 0.274,
+      "min": 1.36,
+      "25%": 2.21,
+      "50%": 2.36,
+      "75%": 2.558,
+      "max": 3.23
+    },
+    "alcalinity_of_ash": {
+      "count": 178.0,
+      "mean": 19.495,
+      "std": 3.34,
+      "min": 10.6,
+      "25%": 17.2,
+      "50%": 19.5,
+      "75%": 21.5,
+      "max": 30.0
+    },
+    "magnesium": {
+      "count": 178.0,
+      "mean": 99.742,
+      "std": 14.282,
+      "min": 70.0,
+      "25%": 88.0,
+      "50%": 98.0,
+      "75%": 107.0,
+      "max": 162.0
+    },
+    "total_phenols": {
+      "count": 178.0,
+      "mean": 2.295,
+      "std": 0.626,
+      "min": 0.98,
+      "25%": 1.742,
+      "50%": 2.355,
+      "75%": 2.8,
+      "max": 3.88
+    },
+    "flavanoids": {
+      "count": 178.0,
+      "mean": 2.029,
+      "std": 0.999,
+      "min": 0.34,
+      "25%": 1.205,
+      "50%": 2.135,
+      "75%": 2.875,
+      "max": 5.08
+    },
+    "nonflavanoid_phenols": {
+      "count": 178.0,
+      "mean": 0.362,
+      "std": 0.124,
+      "min": 0.13,
+      "25%": 0.27,
+      "50%": 0.34,
+      "75%": 0.438,
+      "max": 0.66
+    },
+    "proanthocyanins": {
+      "count": 178.0,
+      "mean": 1.591,
+      "std": 0.572,
+      "min": 0.41,
+      "25%": 1.25,
+      "50%": 1.555,
+      "75%": 1.95,
+      "max": 3.58
+    },
+    "color_intensity": {
+      "count": 178.0,
+      "mean": 5.058,
+      "std": 2.318,
+      "min": 1.28,
+      "25%": 3.22,
+      "50%": 4.69,
+      "75%": 6.2,
+      "max": 13.0
+    },
+    "hue": {
+      "count": 178.0,
+      "mean": 0.957,
+      "std": 0.229,
+      "min": 0.48,
+      "25%": 0.782,
+      "50%": 0.965,
+      "75%": 1.12,
+      "max": 1.71
+    },
+    "od280/od315_of_diluted_wines": {
+      "count": 178.0,
+      "mean": 2.612,
+      "std": 0.71,
+      "min": 1.27,
+      "25%": 1.938,
+      "50%": 2.78,
+      "75%": 3.17,
+      "max": 4.0
+    },
+    "proline": {
+      "count": 178.0,
+      "mean": 746.893,
+      "std": 314.907,
+      "min": 278.0,
+      "25%": 500.5,
+      "50%": 673.5,
+      "75%": 985.0,
+      "max": 1680.0
+    },
+    "target": {
+      "count": 178.0,
+      "mean": 0.938,
+      "std": 0.775,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 1.0,
+      "75%": 2.0,
+      "max": 2.0
+    }
+  }
+}
